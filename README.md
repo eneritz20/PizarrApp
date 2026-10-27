@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologías Utilizadas
 
 * **Entorno de Desarrollo:** Visual Studio
-* **Lenguaje/Framework:** C# / .NET MAUI o Xamarin (Multi-platform App UI) *[Nota: Ajustar si aplica]*
+* **Lenguaje/Framework:** C# / .NET MAUI o Xamarin (Multi-platform App UI)
 * **Despliegue:** Generación de paquete APK para Android.
 
 ---
