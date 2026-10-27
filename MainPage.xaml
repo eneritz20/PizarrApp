@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PizarrApp.MainPage"
-             Shell.NavBarIsVisible="False">
+             Shell.NavBarIsVisible="False"
+             Background="#D8E6FA">
 
     <ScrollView>
         <VerticalStackLayout
@@ -10,16 +11,24 @@
             Spacing="25"
             VerticalOptions="Center">
 
+            <Image
+                Source="pizarrap_logo.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a submarine number ten" />
+
             <Label
                 Text="¡Bienvenido a PizarrApp!"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
+            <!--
             <Label
                 Text="Por favor, elige una lista."
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="" />
+            -->
 
             <Button
                 x:Name="CompraButton"
@@ -27,8 +36,9 @@
                 SemanticProperties.Hint="Accede a la lista de la compra"
                 Clicked="OnCompraClicked"
                 BackgroundColor="#3A86FF"
-                HeightRequest="10"
-                HorizontalOptions="Fill" />
+                HeightRequest="20"
+                HorizontalOptions="Fill"
+                ImageSource="icono_carro_blanco.png"/>
 
             <Button
                 x:Name="TareasButton"
@@ -36,8 +46,9 @@
                 BackgroundColor="#38B000"
                 SemanticProperties.Hint="Accede a la lista de tareas"
                 Clicked="OnTareasClicked"
-                HeightRequest="10"
-                HorizontalOptions="Fill" />
+                HeightRequest="20"
+                HorizontalOptions="Fill"
+                ImageSource="icono_lista_blanca.png" />
         </VerticalStackLayout>
     </ScrollView>
 
