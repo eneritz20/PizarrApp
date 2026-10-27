@@ -59,6 +59,26 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/Model/ClaseTarea/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.Model.ClaseTarea.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Model\ClaseTarea\NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Model\ClaseTarea\NewPage1.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/Model/TareasPage/TareasSpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.Model.TareasPage.TareasSpage.xaml
+build_metadata.AdditionalFiles.TargetPath = Model\TareasPage\TareasSpage.xaml
+build_metadata.AdditionalFiles.RelativePath = Model\TareasPage\TareasSpage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.Resources.Styles.Colors.xaml
@@ -74,6 +94,16 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/Views/TareasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.Views.TareasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TareasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TareasPage.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 

@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\tareaspage\\tareasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\tareaspage\\tareasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\tareaspage\\tareasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\tareaspage\\tareasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\tareaspage\\tareaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\tareaspage\\tareaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\viewmodels\\tareasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:viewmodels\\tareasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\clasetarea\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\clasetarea\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\clasetarea\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\clasetarea\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\model\\clasetarea\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:model\\clasetarea\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\views\\tareaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:views\\tareaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|c:\\users\\ikasle.arangoya\\source\\repos\\pizarrapp\\views\\tareaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453A1E6-C586-2199-D9F3-51F11A52E568}|PizarrApp.csproj|solutionrelative:views\\tareaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareasPage.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasPage.cs",
+              "RelativeDocumentMoniker": "Model\\TareasPage\\TareasPage.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasPage.cs",
+              "RelativeToolTip": "Model\\TareasPage\\TareasPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:36:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasSpage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasSpage.xaml.cs",
+              "RelativeDocumentMoniker": "Model\\TareasPage\\TareasSpage.xaml.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasSpage.xaml.cs",
+              "RelativeToolTip": "Model\\TareasPage\\TareasSpage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:34:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareasSpage.xaml",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasSpage.xaml",
+              "RelativeDocumentMoniker": "Model\\TareasPage\\TareasSpage.xaml",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\TareasPage\\TareasSpage.xaml",
+              "RelativeToolTip": "Model\\TareasPage\\TareasSpage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-27T08:34:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "Model\\Producto.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\Producto.cs",
+              "RelativeToolTip": "Model\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:08:39.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\Tarea.cs",
+              "RelativeDocumentMoniker": "Model\\ClaseTarea\\Tarea.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\Tarea.cs",
+              "RelativeToolTip": "Model\\ClaseTarea\\Tarea.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:08:20.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "Model\\ClaseTarea\\NewPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\NewPage1.xaml.cs",
+              "RelativeToolTip": "Model\\ClaseTarea\\NewPage1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:08:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\ViewModels\\TareasViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TareasViewModel.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\ViewModels\\TareasViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TareasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:51:51.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Views\\TareasPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TareasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Views\\TareasPage.xaml.cs",
+              "RelativeToolTip": "Views\\TareasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:42:45.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TareasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Views\\TareasPage.xaml",
+              "RelativeDocumentMoniker": "Views\\TareasPage.xaml",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Views\\TareasPage.xaml",
+              "RelativeToolTip": "Views\\TareasPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-13T08:42:33.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "Model\\ClaseTarea\\NewPage1.xaml",
+              "ToolTip": "C:\\Users\\ikasle.ARANGOYA\\source\\repos\\PizarrApp\\Model\\ClaseTarea\\NewPage1.xaml",
+              "RelativeToolTip": "Model\\ClaseTarea\\NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-13T08:23:44.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

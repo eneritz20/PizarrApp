@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PizarrApp.TareasPage"
+             Title="Tareas del Hogar"
+             BackgroundColor="#FFFFFF">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Frame BackgroundColor="#F5F5F5" BorderColor="#3A86FF" CornerRadius="10" Padding="15">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Añadir Nueva Tarea" 
+                           FontFamily="Segoe UI" 
+                           FontSize="18" 
+                           FontAttributes="Bold" 
+                           TextColor="#3A86FF"/>
+
+                    <Entry x:Name="TareaEntry" 
+                           Text="{Binding NewTaskName, Mode=TwoWay}" 
+                           Placeholder="Ej. Sacar la basura, Limpiar la cocina..." 
+                           FontFamily="Segoe UI"
+                           BackgroundColor="White"/>
+
+                    <Button Text="Agregar Tarea" 
+                            Command="{Binding AddTaskCommand}"
+                            BackgroundColor="#3A86FF" 
+                            TextColor="White"
+                            FontFamily="Segoe UI"
+                            FontAttributes="Bold"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Tareas Pendientes" 
+                   FontFamily="Segoe UI" 
+                   FontSize="18" 
+                   FontAttributes="Bold" 
+                   TextColor="#3A86FF" 
+                   Margin="0,10,0,0"/>
+
+            <CollectionView ItemsSource="{Binding ListaTareas}" SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <SwipeView>
+                            <SwipeView.RightItems>
+                                <SwipeItems Mode="Execute">
+                                    <SwipeItem Text="Eliminar" BackgroundColor="#FF4D4F" Command="{Binding BindingContext.DeleteTaskCommand, Source={x:Reference Name=ThisPage}}" CommandParameter="{Binding .}"/>
+                                </SwipeItems>
+                            </SwipeView.RightItems>
+
+                            <Frame BackgroundColor="#F5F5F5" BorderColor="#E0E0E0" CornerRadius="8" Margin="0,5" Padding="10">
+                                <Grid ColumnDefinitions="*, Auto">
+
+                                    <Label Grid.Column="0" 
+                                           Text="{Binding Nombre}" 
+                                           FontFamily="Segoe UI"
+                                           FontSize="16" 
+                                           VerticalOptions="Center"
+                                           TextColor="Black"/>
+
+                                    <CheckBox Grid.Column="1" 
+                                              IsChecked="{Binding Completada, Mode=TwoWay}" 
+                                              Color="#38B000"
+                                              VerticalOptions="Center"/>
+                                </Grid>
+                            </Frame>
+                        </SwipeView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
