@@ -26,9 +26,9 @@
 
         }
 
-        private void OnTareasClicked(object? sender, EventArgs e)
+        private async void OnTareasClicked(object? sender, EventArgs e)
         {
-
+            await Navigation.PushAsync(new AnadirTareaPage());
         }
     }
 }

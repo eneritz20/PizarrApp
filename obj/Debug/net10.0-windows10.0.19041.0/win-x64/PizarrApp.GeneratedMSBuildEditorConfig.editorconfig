@@ -29,6 +29,16 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/AnadirTareaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.AnadirTareaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AnadirTareaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AnadirTareaPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/ikasle.ARANGOYA/source/repos/PizarrApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizarrApp.App.xaml

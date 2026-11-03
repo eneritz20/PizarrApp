@@ -15,7 +15,7 @@
                 Source="pizarrap_logo.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a submarine number ten" />
+                SemanticProperties.Description="Icono PizarrApp" />
 
             <Label
                 Text="¡Bienvenido a PizarrApp!"
