@@ -517,3 +517,16 @@ C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19
 C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+<<<<<<< HEAD
+=======
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\bin\Debug\net10.0-windows10.0.19041.0\win-x64\pizarrap_logo.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\pizarrap_logo.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\bin\Debug\net10.0-windows10.0.19041.0\win-x64\icono_carro.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\bin\Debug\net10.0-windows10.0.19041.0\win-x64\icono_lista.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\icono_carro.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\icono_lista.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\bin\Debug\net10.0-windows10.0.19041.0\win-x64\icono_carro_blanco.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\bin\Debug\net10.0-windows10.0.19041.0\win-x64\icono_lista_blanca.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\icono_carro_blanco.scale-100.png
+C:\Users\ikasle.ARANGOYA\source\repos\PizarrApp\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\icono_lista_blanca.scale-100.png
+>>>>>>> 5f8fcf9ab8736a705f0d81bd8a417b540959cdf3
