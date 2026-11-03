@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PizarrApp.Model
 {
-    internal class Tarea
+    public class Tarea
     {
         public string Nombre { get; set; }
         public string Completada { get; set; }

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="PizarrApp.Model.TareasPage.NewPage1"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="NewPage1">
+
+    <Grid Padding="20" RowDefinitions="Auto, *, Auto">
+        <Label
+            Grid.Row="0"
+            Margin="0,0,0,20"
+            FontAttributes="Bold"
+            FontSize="24"
+            Text="Lista de Tareas"
+            TextColor="#333333" />
+
+        <CollectionView x:Name="TareasCollectionView" Grid.Row="1">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame
+                        Margin="0,5"
+                        Padding="15"
+                        BackgroundColor="White"
+                        CornerRadius="8"
+                        HasShadow="True">
+                        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                            <CheckBox
+                                CheckedChanged="OnTaskCheckedChanged"
+                                IsChecked="{Binding IsCompleted}"
+                                Color="#512BD4" />
+                            <Label
+                                Margin="10,0,0,0"
+                                FontSize="18"
+                                Text="{Binding Name}"
+                                TextColor="#444444"
+                                VerticalOptions="Center" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button
+            Grid.Row="2"
+            Margin="0,20,0,0"
+            BackgroundColor="#512BD4"
+            Clicked="OnGuardarClicked"
+            CornerRadius="10"
+            FontAttributes="Bold"
+            Text="Guardar Progreso"
+            TextColor="White" />
+    </Grid>
+</ContentPage>
