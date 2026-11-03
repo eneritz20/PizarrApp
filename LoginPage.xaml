@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Clase1.LoginPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="LoginPage"
+    BackgroundColor="ForestGreen">
+    <VerticalStackLayout>
+        <Label
+            FontAttributes="Bold,Italic"
+            FontSize="60"
+            HorizontalOptions="Center"
+            Text="$$$"
+            TextColor="White" />
+        <Entry
+            x:Name="NombreEntry"
+            BackgroundColor="LightGray"
+            Placeholder="Introduce tu nombre"
+            TextChanged="NombreChanged" />
+        <Entry
+            x:Name="PasswordEntry"
+            BackgroundColor="LightGray"
+            IsVisible="True"
+            Placeholder="Introduce tu contraseña" />
+
+        <Button
+            x:Name="AccederButton"
+            Padding="-5"
+            BackgroundColor="White"
+            Clicked="AccederClicked"
+            FontAttributes="Bold"
+            FontSize="25"
+            IsVisible="True"
+            Text="Iniciar Sesion"
+            TextColor="Black" />
+    </VerticalStackLayout>
+</ContentPage>

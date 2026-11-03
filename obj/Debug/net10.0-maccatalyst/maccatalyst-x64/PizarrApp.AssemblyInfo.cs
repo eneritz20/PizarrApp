@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizarrApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+17d6cd2ae08193fd65ca6f4700c62a126c77a314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+06814f21ecede43c797d18658d9a177abfaef696")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizarrApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizarrApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
